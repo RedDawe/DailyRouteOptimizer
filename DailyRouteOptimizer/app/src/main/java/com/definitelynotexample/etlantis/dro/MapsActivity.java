@@ -64,7 +64,7 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
     int iterator = 0;
     int MY_PERMISSIONS_REQUEST_READ_CONTACTS = 0;
 
-    String key = "McQfTjWnZr4u7x!A%D*F-JaNdRgUkXp2";
+    String key = "";
 
     float zoomLevel = 16.0f; //This goes up to 21
 
