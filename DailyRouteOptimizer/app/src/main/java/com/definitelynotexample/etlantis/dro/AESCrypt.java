@@ -74,7 +74,7 @@ public class AESCrypt {
     public static void main(String[] args) {
         boolean encrypt = false; // encrypt | decrypt
 
-        String key = "McQfTjWnZr4u7x!A%D*F-JaNdRgUkXp2";
+        String key = "";
         String message = "FUbiNnxWx4zfpc1v4Xyc6ylyTzodkmrNyrJeArOjAWg="; // either plaintext or encrypted
 
         if (encrypt)
