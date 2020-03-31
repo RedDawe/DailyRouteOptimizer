@@ -1,0 +1,3 @@
+It is recommended to build your own version of both the server and android app from the code here.
+
+The computing capacity of the server is limited and neither have usable api keys.
