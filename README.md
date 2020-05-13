@@ -10,4 +10,6 @@ Gettin' it?
 
 Encryption taken from: https://github.com/ijl20/python_java_crypto
 
-Map display helper files taken from: https://github.com/Vysh01/android-maps-directions/tree/master/app/src/main/java/com/thecodecity/mapsdirection/directionhelpers
+Map display helper files taken from: https://github.com/Vysh01/android-maps-directions
+
+Requests taken from: https://developer.android.com/training/volley/simple.html
